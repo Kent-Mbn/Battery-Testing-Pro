@@ -8,10 +8,10 @@
 
 
 //API Webservice
-#define SERVER_IP   @"http://14.176.231.235/battery-testing"
+#define SERVER_IP
 #define SERVER_PORT @"80"
 
-//#define SERVER_IP   @"http://172.20.2.19"
+//#define SERVER_IP 
 //#define SERVER_PORT @"80"
 
 #define URL_SERVER_API_FULL [NSString stringWithFormat:@"%@", SERVER_IP]
