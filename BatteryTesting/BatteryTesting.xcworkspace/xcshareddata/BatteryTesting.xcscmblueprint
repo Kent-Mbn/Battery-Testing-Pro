@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FEFD857A5658C0ED1F217594DBEB329F7C22AF13",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9AC2D9294A5AE3C14772E7003A8E3D381CA1C196" : 0,
+    "FEFD857A5658C0ED1F217594DBEB329F7C22AF13" : 0,
+    "A1A1DF783E23CF6A5511EF86F246E567D7F45F41" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D09E09D0-8F0F-4128-8858-F4D8CDCC8775",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9AC2D9294A5AE3C14772E7003A8E3D381CA1C196" : "Battery%20Testing%20Fast",
+    "FEFD857A5658C0ED1F217594DBEB329F7C22AF13" : "Battery%20Testing%20Pro\/",
+    "A1A1DF783E23CF6A5511EF86F246E567D7F45F41" : "Battery%20Testing%20Lite\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BatteryTesting",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BatteryTesting\/BatteryTesting.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Kent-Mbn\/Battery-Testing-Fast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9AC2D9294A5AE3C14772E7003A8E3D381CA1C196"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/kentphong\/battery-testing-lite.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A1A1DF783E23CF6A5511EF86F246E567D7F45F41"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/kentphong\/battery-testing-pro.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FEFD857A5658C0ED1F217594DBEB329F7C22AF13"
+    }
+  ]
+}
